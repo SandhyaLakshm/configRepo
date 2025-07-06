@@ -1,4 +1,4 @@
 spring:
   main:
     banner-mode: "off"
-custom.message: Hello from Config Server!
+custom.message: Hello from Configuration Server!
